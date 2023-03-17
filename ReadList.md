@@ -1,5 +1,8 @@
 一、Coding
-
+1. Greg Brockman's "HOw I became a machine leaerning practitioner" https://blog.gregbrockman.com/how-i-became-a-machine-learning-practitioner 
+   因关注GPT-4而读到OpenAI创始人之一的这篇blog， 让这几天比较压抑焦虑的精神为之一振。ML, 可作为coding的催化剂、推动力和终极目标。
+3. 
+4. 
 二、OS
 1. 操作系统研究前沿，IEEE公众号分享上交的并行与分布式系统研究所， https://mp.weixin.qq.com/s/Vhz4Z4cDg3RoDFjD1HNP4w 
 3. 回看Linux内核概念和学习路线
